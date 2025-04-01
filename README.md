@@ -7,7 +7,7 @@ I am a fourth year software engineering student at the Peruvian University of Ap
 - I’m currently studying:
 	- Mobile Application Development 
 	- Web Application Development
-- I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+- I'm interested in all things web development: **Frontend, Backend, APIs, Cloud Deployment, and Modern Web Frameworks.**
 
 ## My Skills Include
 
